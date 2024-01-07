@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.0",
+  "versionCode": 30,
+  "versionName": "3.0",
   "Msg": "New update is available.
 
 What's new:
