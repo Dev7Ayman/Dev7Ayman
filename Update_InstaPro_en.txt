@@ -1,6 +1,19 @@
-Version 3.0 Changelog:
-
->[Base update] 292.0.0.31.110
->[Exclusive] Added Show Deleted Messages
->[Fixed] Problem of the disappearance call button in the conversation
->[Fixed] Many Random Crash
+📷 Instagram Plus V2.1 ❤️‍🔥
+💠 [Base] 311.0.0.32.118
+⭐What's new in V2.1?
+🛠 Fixed the sudden crash issue 
+📢 Create channels
+📝Improved Plus settings design 
+⬇️ Download videos and photos
+⬇️ Download the rails
+📢Publish stories with high accuracy
+✉️ Translating comments
+📃 Copy comments
+⚙️Change the application icon
+⭐Change the font and emoji of the application
+🗑Show deleted messages 🚫
+👤 New privacy options
+❤️iPhone fonts and emojis
+📷Set a background for the conversation
+🔒Lock and hide the conversation
+➖ Completely Arabic language
